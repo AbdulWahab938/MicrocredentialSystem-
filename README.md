@@ -26,3 +26,10 @@ micro-credentialing/
 ├── test/                # Test scripts for contracts
 ├── truffle-config.js    # Truffle configuration file
 └── README.md            # Project documentation
+
+#  Setup Instructions
+## Clone the Repository
+```bash
+git clone https://github.com/your-username/micro-credentialing.git
+cd micro-credentialing
+
